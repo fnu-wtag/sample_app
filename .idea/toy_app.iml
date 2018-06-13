@@ -128,6 +128,20 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="bootsnap (vbundled(1.3.0)) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/bin" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/bin" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="builder (vbundled(3.2.3)) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/builder-3.2.3/lib" />
@@ -360,6 +374,22 @@
         </CLASSES>
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-5.11.3/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="msgpack (vbundled(1.2.4)) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/msgpack-1.2.4/bench" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/msgpack-1.2.4/doclib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/msgpack-1.2.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/msgpack-1.2.4/ext" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/msgpack-1.2.4/bench" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/msgpack-1.2.4/doclib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/msgpack-1.2.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/msgpack-1.2.4/ext" />
         </SOURCES>
       </library>
     </orderEntry>
